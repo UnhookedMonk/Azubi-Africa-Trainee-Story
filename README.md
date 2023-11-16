@@ -74,9 +74,9 @@ Dream Role: That'll have to be a data scientist at Spotify. I would very much lo
 
 <tr>
 <td>1</td>
-<td> </td>
+<td>Indian Startup Ecosystem Data Dive</td>
 <td>Add the project description here...</td>
-<td>Add the article link here...</td>
+<td><a href='https://medium.com/@fiifi.abassah/indian-startup-ecosystem-a-data-study-f3650277a963'>Medium Article</a></td>
 <td>Add the deployed app link here...</td>
 <td>Add the app repository link here...</td>
 <td>Add the development repository link here...</td>
