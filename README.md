@@ -3,7 +3,7 @@
 Here is the place I tell the story of my experience of the Data Analytics Program.
 
 ## Let me introduce Myself
-Started out a geoscientist
+`Started out as a geoscientist`
 
 ## How would I describe my experience in the data analytics program ? 
 `Please add text here...`
