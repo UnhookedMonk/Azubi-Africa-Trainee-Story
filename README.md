@@ -1,11 +1,9 @@
 # DAP-Trainee-Story
-# 📈🧪 Data Analytics Program 🧠📊 : Story of *___trainee_name__*
-Here is the place to tell the story of your experience of the Data Analytics Program.
-
-**Instruction**: Fork the repo, name it `DAP-Trainee-Story_<your-username>`, fill and embellish this Readme file. *Remove this instruction when you are done.*
+# 📈🧪 Data Analytics Program 🧠📊 : Story of Ebenezer Fiifi Abassah-Konadu
+Here is the place I tell the story of my experience of the Data Analytics Program.
 
 ## Let me introduce Myself
-`Please provide a brief professional history before embarking on your data analytics journey (3 - 4 lines)`
+Started out a geoscientist
 
 ## How would I describe my experience in the data analytics program ? 
 `Please add text here...`
@@ -23,7 +21,7 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 `Please add text here...`
 
 ## What is my dream company or role ?
-`Please add text here...`
+Dream Role: That'll have to be a data scientist at Spotify. I would very much love to see their selection algos at work.
 
 ## 1st Phase Projects' Summary Table
 `Please add text here...`
@@ -194,7 +192,8 @@ Here is the place to tell the story of your experience of the Data Analytics Pro
 
 
 ## My Contacts
-`Please add your contacts here...`
+<a href="https://www.linkedin.com/in/eben-fiifi-a-k/">LinkedIn</a>
+<a href="https://twitter.com/Mr_Fiifi">Twitter</a>
 
 **NB:**
 Feel free to add more sections if you want to share some thoughts or personal works, etc.
