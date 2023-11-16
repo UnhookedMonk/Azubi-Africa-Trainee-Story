@@ -21,7 +21,7 @@ Here is the place I tell the story of my experience of the Data Analytics Progra
 `Please add text here...`
 
 ## What is my dream company or role ?
-Dream Role: That'll have to be a data scientist at Spotify. I would very much love to see their selection algos at work.
+Dream Role: That'll have to be a Data Scientist at Spotify. I would very much love to see their selection and classification algos at work.
 
 ## 1st Phase Projects' Summary Table
 `Please add text here...`
@@ -133,7 +133,7 @@ Dream Role: That'll have to be a data scientist at Spotify. I would very much lo
 </tr>
 
 <tr>
-<td>Capstsone</td>
+<td>Capstone</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -188,7 +188,7 @@ Dream Role: That'll have to be a data scientist at Spotify. I would very much lo
 
 1. Do you think you have gained enough skills through our programme to land your dream job ? 
 
-    `Reply here please.`
+    `It's a process and I'm definitely not where I need to be but I'm in a much better place than when I began my transition`
 
 
 ## My Contacts
