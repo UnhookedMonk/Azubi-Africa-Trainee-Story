@@ -194,6 +194,7 @@ Dream Role: That'll have to be a data scientist at Spotify. I would very much lo
 ## My Contacts
 <a href="https://www.linkedin.com/in/eben-fiifi-a-k/">LinkedIn</a>
 <a href="https://twitter.com/Mr_Fiifi">Twitter</a>
+<a href="https://medium.com/@fiifi.abassah">Medium</a>
 
 **NB:**
 Feel free to add more sections if you want to share some thoughts or personal works, etc.
