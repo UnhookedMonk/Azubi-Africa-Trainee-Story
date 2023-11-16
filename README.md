@@ -84,12 +84,12 @@ Dream Role: That'll have to be a data scientist at Spotify. I would very much lo
 
 <tr>
 <td>2</td>
+<td>Telco Customer Churn Prediction</td>
+<td>For this project, I built a machine learning model which predicted whether a customer will stay on with a company or not</td>
+<td><a href='https://medium.com/@fiifi.abassah/customer-churn-analysis-a-telecommunications-case-study-da3ade0933a3'>Medium Article</a></td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td><a href='https://github.com/UnhookedMonk/Customer-Churn-Analysis.git'>Development Repository Link</a> </td>
 </tr>
 
 <tr>
