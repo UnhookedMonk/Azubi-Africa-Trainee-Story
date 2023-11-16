@@ -75,11 +75,11 @@ Dream Role: That'll have to be a data scientist at Spotify. I would very much lo
 <tr>
 <td>1</td>
 <td>Indian Startup Ecosystem Data Dive</td>
-<td>Add the project description here...</td>
+<td>The objective of this project was to provide actionable insights looking to invest in India</td>
 <td><a href='https://medium.com/@fiifi.abassah/indian-startup-ecosystem-a-data-study-f3650277a963'>Medium Article</a></td>
-<td>Add the deployed app link here...</td>
-<td>Add the app repository link here...</td>
-<td>Add the development repository link here...</td>
+<td>None</td>
+<td>None</td>
+<td><a href='https://github.com/UnhookedMonk/Indian_Startup_Ecosystem-A_Data_Study.git'>Development Repository Link</a> </td>
 </tr>
 
 <tr>
