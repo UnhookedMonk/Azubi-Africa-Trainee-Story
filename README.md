@@ -3,7 +3,7 @@
 Here is the place I tell the story of my experience of the Data Analytics Program.
 
 ## Let me introduce Myself
-`Started out as a geoscientist`
+`I started out as a geoscientist. `
 
 ## How would I describe my experience in the data analytics program ? 
 `Please add text here...`
@@ -12,16 +12,16 @@ Here is the place I tell the story of my experience of the Data Analytics Progra
 `Please add text here...`
 
 ## What enticed me to join the Data Analytics Program?
-`Please add text here...`
+`I was looking for a Data Analytics program with a more hands-on approach  to learning, instructors to guide the learning process and ultimately, a program that is committed to getting me my dream role in tech.`
 
 ## What would I say my progress in tech has been since joining the program ? 
-`Please add text here...`
+`Not only have I gained valuable job-ready skills, I have also built confidence in myself as a data scientist. I have also been better equipped to handle job interviews. All in all, I am in a better position to meet the needs of the job market.`
 
 ## What are my plans for the future ?
-`Please add text here...`
+`Continue upskilling, improve myself and just build, build, build. I want to be a well-sought after data scientist makaing strides in the industry`
 
 ## What is my dream company or role ?
-Dream Role: That'll have to be a Data Scientist at Spotify. I would very much love to see their selection and classification algos at work.
+`Dream Role: That'll have to be a Data Scientist at Spotify. I would very much love to see their selection and classification algos at work.`
 
 ## 1st Phase Projects' Summary Table
 `Please add text here...`
